@@ -1,0 +1,1 @@
+To jest opis funkcjonalności naszej strony!
